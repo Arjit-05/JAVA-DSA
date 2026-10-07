@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Arjit-05/JAVA-DSA/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Arjit-05/JAVA-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Arjit-05/JAVA-DSA/tree/master/0027-remove-element) |
+| [0088-merge-sorted-array](https://github.com/Arjit-05/JAVA-DSA/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Arjit-05/JAVA-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Arjit-05/JAVA-DSA/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/Arjit-05/JAVA-DSA/tree/master/0283-move-zeroes) |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Arjit-05/JAVA-DSA/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Arjit-05/JAVA-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Arjit-05/JAVA-DSA/tree/master/0027-remove-element) |
+| [0088-merge-sorted-array](https://github.com/Arjit-05/JAVA-DSA/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Arjit-05/JAVA-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Arjit-05/JAVA-DSA/tree/master/0283-move-zeroes) |
 ## Greedy
@@ -33,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Arjit-05/JAVA-DSA/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Arjit-05/JAVA-DSA/tree/master/0169-majority-element) |
 ## Counting
 |  |
