@@ -33,5 +33,19 @@ class Solution {
         }
 
         return new int[]{-1, -1};
+
+
+        // int left =0;
+        // while(left<nums.length){
+        //     int right =left+1;
+        //     while(right<nums.length){
+        //         if (nums[left] + nums[right] == target){
+        //             return new int []{left,right};
+        //         }
+        //         right++;
+        //         left++;
+        //     }
+        // }
+        // return new int[]{-1,-1};
     }
 }
