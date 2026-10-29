@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Arjit-05/JAVA-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Arjit-05/JAVA-DSA/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/Arjit-05/JAVA-DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0219-contains-duplicate-ii](https://github.com/Arjit-05/JAVA-DSA/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/Arjit-05/JAVA-DSA/tree/master/0283-move-zeroes) |
 | [0643-maximum-average-subarray-i](https://github.com/Arjit-05/JAVA-DSA/tree/master/0643-maximum-average-subarray-i) |
 ## Two Pointers
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Arjit-05/JAVA-DSA/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/Arjit-05/JAVA-DSA/tree/master/0169-majority-element) |
+| [0219-contains-duplicate-ii](https://github.com/Arjit-05/JAVA-DSA/tree/master/0219-contains-duplicate-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Arjit-05/JAVA-DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0219-contains-duplicate-ii](https://github.com/Arjit-05/JAVA-DSA/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/Arjit-05/JAVA-DSA/tree/master/0643-maximum-average-subarray-i) |
 ## Prefix Sum
 |  |
