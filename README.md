@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Arjit-05/JAVA-DSA/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Arjit-05/JAVA-DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Arjit-05/JAVA-DSA/tree/master/0219-contains-duplicate-ii) |
+| [0242-valid-anagram](https://github.com/Arjit-05/JAVA-DSA/tree/master/0242-valid-anagram) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Arjit-05/JAVA-DSA/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Arjit-05/JAVA-DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Arjit-05/JAVA-DSA/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Arjit-05/JAVA-DSA/tree/master/0242-valid-anagram) |
 ## Counting
 |  |
 | ------- |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Arjit-05/JAVA-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0242-valid-anagram](https://github.com/Arjit-05/JAVA-DSA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Arjit-05/JAVA-DSA/tree/master/0344-reverse-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Arjit-05/JAVA-DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Math
