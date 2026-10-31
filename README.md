@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Arjit-05/JAVA-DSA/tree/master/0011-container-with-most-water) |
+| [1903-largest-odd-number-in-string](https://github.com/Arjit-05/JAVA-DSA/tree/master/1903-largest-odd-number-in-string) |
 ## Hash Table
 |  |
 | ------- |
@@ -80,11 +81,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Arjit-05/JAVA-DSA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Arjit-05/JAVA-DSA/tree/master/0344-reverse-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Arjit-05/JAVA-DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1903-largest-odd-number-in-string](https://github.com/Arjit-05/JAVA-DSA/tree/master/1903-largest-odd-number-in-string) |
 ## Math
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Arjit-05/JAVA-DSA/tree/master/0009-palindrome-number) |
 | [0202-happy-number](https://github.com/Arjit-05/JAVA-DSA/tree/master/0202-happy-number) |
+| [1903-largest-odd-number-in-string](https://github.com/Arjit-05/JAVA-DSA/tree/master/1903-largest-odd-number-in-string) |
 ## Sliding Window
 |  |
 | ------- |
