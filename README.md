@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/Arjit-05/JAVA-DSA/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/Arjit-05/JAVA-DSA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Arjit-05/JAVA-DSA/tree/master/0344-reverse-string) |
+| [0412-fizz-buzz](https://github.com/Arjit-05/JAVA-DSA/tree/master/0412-fizz-buzz) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Arjit-05/JAVA-DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1903-largest-odd-number-in-string](https://github.com/Arjit-05/JAVA-DSA/tree/master/1903-largest-odd-number-in-string) |
 ## Math
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/Arjit-05/JAVA-DSA/tree/master/0009-palindrome-number) |
 | [0202-happy-number](https://github.com/Arjit-05/JAVA-DSA/tree/master/0202-happy-number) |
+| [0412-fizz-buzz](https://github.com/Arjit-05/JAVA-DSA/tree/master/0412-fizz-buzz) |
 | [1903-largest-odd-number-in-string](https://github.com/Arjit-05/JAVA-DSA/tree/master/1903-largest-odd-number-in-string) |
 ## Sliding Window
 |  |
@@ -134,4 +136,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Arjit-05/JAVA-DSA/tree/master/0075-sort-colors) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/Arjit-05/JAVA-DSA/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
